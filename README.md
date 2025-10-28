@@ -1,0 +1,2 @@
+# laboratoriogit
+laboratorio semana tec 
